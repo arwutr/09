@@ -19,7 +19,7 @@ function Paint(){
 		src: "programs/jspaint/index.html",
 		icon: "paint",
 		// NOTE: in Windows 98, "untitled" is lowercase, but TODO: we should just make it consistent
-		title: "untitled - Paint"
+		title: "armtrue - Paint"
 	});
 
 	var contentWindow = $win.$iframe[0].contentWindow;
